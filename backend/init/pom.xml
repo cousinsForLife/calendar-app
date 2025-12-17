@@ -8,10 +8,10 @@
 		<version>4.0.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>cousins.calendarapp</groupId>
-	<artifactId>init</artifactId>
+	<groupId>cousins.forlife</groupId>
+	<artifactId>calendarapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>init</name>
+	<name>calendarapp</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
