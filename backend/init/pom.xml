@@ -8,7 +8,7 @@
 		<version>4.0.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>cousins.forlife</groupId>
+	<groupId>cousinsforlife</groupId>
 	<artifactId>calendarapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>calendarapp</name>
@@ -39,6 +39,11 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-webmvc</artifactId>
 		</dependency>
 	</dependencies>
 

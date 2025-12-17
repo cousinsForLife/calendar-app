@@ -1,4 +1,4 @@
-package cousins.forlife.calendarapp;
+package cousinsforlife.calendarapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
